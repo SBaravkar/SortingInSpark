@@ -1,0 +1,1 @@
+spark-3.3.2-bin-hadoop3/bin/spark-submit --master local[*] countrytimestamp.py export.csv output.csv
